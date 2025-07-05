@@ -11,7 +11,7 @@ public class Lab141_String_InterviewEQUALS {
 
         //lets see ==
         System.out.println(s1=s2); //ans will false
-        System.out.println(s1=s3); //ans will true
+        System.out.println(s1==s3); //ans will true
         System.out.println(s2==s4);//ans will false
         System.out.println(s2==s4);//ans will false
 

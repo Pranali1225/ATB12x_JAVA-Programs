@@ -13,6 +13,7 @@ public class Lab143_StringExample {
 
         int result2="abc".compareTo("ABC");
         System.out.println(result2);
+        System.out.println("my ans");
         //it will check the both string are matched with each other
 
 

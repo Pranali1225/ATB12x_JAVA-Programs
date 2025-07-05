@@ -7,7 +7,7 @@ public class Lab145_StringSubsStringExample {
         //subsstring can be done using index
         //substring will always remove the characheter
 
-        String s1="Pranali".substring(1,3);
+        String s1="Hello".substring(1,4);
         System.out.println(s1);
 
         char[] ch=s1.toCharArray();
